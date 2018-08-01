@@ -70,8 +70,7 @@ Created by **Chelsea Smith-Antonides**
 
 * You can change the individual image file name here, but if you want to rename a batch of images, click the little toggle button to the right of the file name to pull up a window. This lets you edit multiple image names at once. This is very useful if you're missing an image, such as a page of a document, and need to insert it into a sequence. 
 
-* For instance, if you need to insert an image into a sequence before image_005, select image_005 and all the images after it, select the toggle button again next to file name, and change **Start Number** to 006. This will create an empty space for your missing picture.  
-![image]()
+* For instance, if you need to insert an image into a sequence before image_005, select image_005 and all the images after it, select the toggle button again next to file name, and change **Start Number** to 006. This will create an empty space for your missing picture. 
 
 ***Note*** 
 * File naming is important! If you change file names, do so carefully. If you make a mistake, some names will have a -2 at the end, such as image_005-2. This means that more than one image has the same file name. Track down the images and then change their names to fix this. Other errors include images appearing in the wrong order after you name them. Carefully pinpoint where the problem starts and edit the names until they are properly in order again. 
