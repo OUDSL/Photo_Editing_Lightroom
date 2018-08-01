@@ -30,9 +30,10 @@ Created by **Chelsea Smith-Antonides**
   - **Develop** is the workspace where you can change the coloring, white balance, cropping space, and more.
   - **Map** lets you add a geographical location to your images by selecting them on a map. 
 
-![Image]()
+![Image](master/lightroom001.png)
 
-![Image]()
+[Return to Top](#about)
+
 
 ## Setting Up to Capture or Upload Photos
 
@@ -49,12 +50,10 @@ Created by **Chelsea Smith-Antonides**
   - **Start Number** is usually kept at 1. If you need to delete and re-capture images you didn't like, you can change this start number to the one you need. 
   - You can add content to the **Metadata** section at the bottom if you want all of your images to contain the same information, such as your name or company name. This is something you can easily add to your images later on, so you can leave this blank. 
 
-![image]()
+![image](master/lightroom008.png)
 
 * Start capturing! As you take each picture, Lightroom will import them. It may take a few moments for the image to load properly. After it appears, zoom in and check the quality of your image, making sure that it's focused. Also check on the color and lighting so that the images are not too dark or too light. Adjust your ISO, aperture, and shutter speed settings as needed.
 * To delete images, right click on them in the viewer at the bottom of the screen and then select **Send to trash** or **Remove from disk** to ensure your computer does not keep a copy of the image on your hard drive.
-
-![image of delete options]()
 
 [Return to Top](#about)
 
@@ -78,7 +77,7 @@ Created by **Chelsea Smith-Antonides**
 
 * If things go haywire, you change the sorting of your images from "**file name**" to "**capture time**" and vise versa. This is located **here**: 
 
-![capturetime]()
+![capturetime](master/Screen%20Shot%202018-07-31%20at%201.36.42%20PM.png)
 
 * **Capture Time** puts your images back into the order that you originally captured them in. From here, you can track down where any naming errors began and fix them. 
 
@@ -88,6 +87,8 @@ Created by **Chelsea Smith-Antonides**
 
 * Go to the **Develop** workspace. 
 * From here you can crop your images, change the white balance, contrast, and brightness, among other options. Play around with these settings until you are happy with the look. If the images are still too dark or too bright, change the ISO, Shutter Speed, and/or Aperture settings on your camera and capture these images again. 
+
+![image](master/Screen%20Shot%202018-07-31%20at%201.37.47%20PM.png)
 
 [Return to Top](#about)
 
