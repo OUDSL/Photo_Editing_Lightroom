@@ -38,7 +38,7 @@ Created by **Chelsea Smith-Antonides**
 ## Setting Up to Capture or Upload Photos
 
 * You have a couple of options: 
-  - If you have already captured your images, you can import them quite easily from your computer using the **import** button in the lower left corner. Go ahead and import your files and then skip to the section on renaming photos if this applies to you.
+  - If you have already captured your images, you can import them quite easily from your computer using the **Import** button in the lower left corner. Once you select **Import**, locate the folder where you saved your files. Once you click on the folder, the images will appear on the screen. You can check or un-check boxes if you don't wish to import everything in that folder. Go ahead and import what you need and then skip ahead to the section on renaming photos.
   - If you haven't captured the images yet, you can set up a **tethered capture**, which will pull your images into the LRcat automatically as you capture them with your camera. This is very useful if you want to check the quality of your images as you go, allowing you to zoom in far more easily than on a small camera LCD screen. 
   
 ![tethered-capture](/IMAGES/lightroom020.png) 
