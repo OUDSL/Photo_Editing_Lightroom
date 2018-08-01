@@ -41,7 +41,7 @@ Created by **Chelsea Smith-Antonides**
   - If you have already captured your images, you can import them quite easily from your computer using the **import** button in the lower left corner. Go ahead and import your files and then skip to the section on renaming photos if this applies to you.
   - If you haven't captured the images yet, you can set up a **tethered capture**, which will pull your images into the LRcat automatically as you capture them with your camera. This is very useful if you want to check the quality of your images as you go, allowing you to zoom in far more easily than on a small camera LCD screen. 
   
-![tethered-capture](/IMAGES/lightroom20.png) 
+![tethered-capture](/IMAGES/lightroom020.png) 
   
 
 ***Note*** You'll want to make sure that your camera is compatible with Lightroom. You can access a list of compatible cameras [here](https://helpx.adobe.com/lightroom/kb/tethered-camera-support.html) on Adobe's website.
