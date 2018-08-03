@@ -1,7 +1,7 @@
 ## Photo Editing with Adobe Lightroom
 
 ## About
-Last Updated July 27 2018   
+Last Updated August 03, 2018   
 Created by **Chelsea Smith-Antonides**
 
 ## Table of Contents
