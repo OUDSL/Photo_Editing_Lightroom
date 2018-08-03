@@ -71,7 +71,7 @@ Created by **Chelsea Smith-Antonides**
 ***Note*** 
 * File naming is important! If you change file names, do so carefully. If you make a mistake, some names will have a -2 at the end, such as image_005-2. This means that more than one image has the same file name. Track down the images and then change their names to fix this. Other errors include images appearing in the wrong order after you name them. Carefully pinpoint where the problem starts and edit the names until they are properly in order again. 
 
-* If things go haywire, you change the sorting of your images from "**file name**" to "**capture time**" and vise versa. This is located at the bottom of the screen **here**: 
+* If things go haywire, you change the sorting of your images from "**file name**" to "**capture time**" and vise versa. This is located at the bottom of the screen **here** next to **Sort**: 
  
 ![capturetime](/IMAGES/lightroom009.png)
 
