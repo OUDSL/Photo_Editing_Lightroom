@@ -64,12 +64,8 @@ Created by **Chelsea Smith-Antonides**
 ## Renaming Photos
 
 * You can easily change the name of an image, or a group of images. 
-* Select at least one image (hold the shift key to select multiple). Make sure you are in the **Library** workspace, not **Develop**. On the right hand side of the screen, locate the File Name box.
-
-![file name box](/IMAGES/lightroom010.png)
-
+* Select at least one image (hold the shift key to select multiple). Make sure you are in the **Library** workspace, not **Develop**. On the right hand side of the screen, locate the File Name box under **Metadata**.
 * You can change the individual image file name here, but if you want to rename a batch of images, click the little toggle button to the right of the file name to pull up a window. This lets you edit multiple image names at once. This is very useful if you're missing an image, such as a page of a document, and need to insert it into a sequence. 
-
 * For instance, if you need to insert an image into a sequence before image_005, select image_005 and all the images after it, select the toggle button again next to file name, and change **Start Number** to 006. This will create an empty space for your missing picture. 
 
 ***Note*** 
