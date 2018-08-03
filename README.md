@@ -96,7 +96,7 @@ Created by **Chelsea Smith-Antonides**
 
 * Is there text in your images? Did you capture document, journal or book pages? If you wish, you can turn these images into a single PDF file and make it searchable. With this, you can locate words or phrases in the PDF quite easily. To do this, you need Adobe Acrobat Reader.
 * You can read about Adobe Reader [here](https://www.adobe.com/accessibility/products/reader.html). 
-* Once you have Adobe downloaded onto your computer, open it. Select **Tools** and then **Combine Files**. 
+* Once you have Adobe downloaded onto your computer, open it. Go to **File**, select **Create**, and then **Combine Files**. 
 
 ![combine files](/IMAGES/ocr_combine_files.png)
 
