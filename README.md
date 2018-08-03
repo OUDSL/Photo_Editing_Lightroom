@@ -73,7 +73,7 @@ Created by **Chelsea Smith-Antonides**
 
 * If things go haywire, you change the sorting of your images from "**file name**" to "**capture time**" and vise versa. This is located at the bottom of the screen **here** next to **Sort**: 
  
-![capturetime](/IMAGES/lightroom009.png)
+<span style="display:block;text-align:center">![capturetime](/IMAGES/lightroom009.png)</span>
 
 * **Capture Time** puts your images back into the order that you originally captured them in. From here, you can track down where any naming errors began and fix them. 
 
