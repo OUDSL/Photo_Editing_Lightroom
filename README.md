@@ -53,7 +53,7 @@ Created by **Chelsea Smith-Antonides**
   - **Start Number** is usually kept at 1. If you need to delete and re-capture images you didn't like, you can change this start number to the one you need. 
   - You can add content to the **Metadata** section at the bottom if you want all of your images to contain the same information, such as your name or company name. This is something you can easily add to your images later on, so you can leave this blank. 
 
-![image]()
+![image](/IMAGES/tethered_capture.png)
 
 * Start capturing! As you take each picture, Lightroom will import them. It may take a few moments for the image to load properly. After it appears, zoom in and check the quality of your image, making sure that it's focused. Also check on the color and lighting so that the images are not too dark or too light. Adjust your ISO, aperture, and shutter speed settings as needed.
 * To delete images, right click on them in the viewer at the bottom of the screen and then select **Send to trash** or **Remove from disk** to ensure your computer does not keep a copy of the image on your hard drive.
@@ -98,16 +98,19 @@ Created by **Chelsea Smith-Antonides**
 * You can read about Adobe Reader [here](https://www.adobe.com/accessibility/products/reader.html). 
 * Once you have Adobe downloaded onto your computer, open it. Select **Tools** and then **Combine Files**. 
 
-![combine files]()
+![combine files](/IMAGES/ocr_combine_files.png)
 
 * From here, you want to "combine files into single PDF". 
 * A box will pop up telling you to either search for your files or drag and drop them into the box. Do so with your image files, and the box will begin going through each file and prepping them to be combined. 
 * This may take some time, especially if you have a lot of images to combine.
 
-![combine files preview]()
+![combine files preview](/IMAGES/ocr_add_files_tile.png)
 
 * When the file reader is done, a PDF will appear on your screen with all of your images. If anything is missing or out of order, exit the PDF without saving and try dragging your files to the box again. You can reorder the files in this box if needed.
-* Locate the **Tools** folder in the PDF menu. Search for **Original Character Recognition**, the longhand for OCR. You will want to select **In this file**. 
+* Locate the **Tools** folder in the PDF menu. Search for **Original Character Recognition** or **Recognize Text**. The exact name of the tool may vary based on which version of the product you have. You will want to select **In this file**.
+
+![ocr](/IMAGES/ocr_recognize_text_option.png)
+
 * Adobe will then scan each image, recognizing each letter in each word. This may take some time.
-* After it's done, click ctr + F to search your PDF and try typing a word or phrase that you know is in the document. The OCR should find the word or phrase in your document. If it does not, try the OCR process again. 
+* After it's done, click ctr + F or Command + F to search your PDF. Try typing a word or phrase that you know is in the document. The OCR should find the word or phrase in your document. If it does not, try the OCR process again. 
 * Be sure to save your PDF! 
